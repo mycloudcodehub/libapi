@@ -4232,7 +4232,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER + OptionKind.PREFERENCE
   },
   defaultUrl: {
-    value: 'my.pdf',
+    value: 'https://mycloudcodehub.github.io/books/bookstore/01.pdf',
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
